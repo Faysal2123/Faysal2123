@@ -97,6 +97,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Faysal2123/Faysal2123/output/snake.svg" alt="Snake animation" />
+
 
 ###
