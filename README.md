@@ -51,20 +51,20 @@ Hi, I'm a passionate 🔥 Front-End Developer with expertise in modern web techn
 
 ## 🚀 My Top Projects
 
-### 🎮 [Game Review Platform](https://github.com/Faysal2123/game-review)
+### 🎮 [Game Review Platform] https://github.com/Faysal2123/game-review
 - *Overview*: A platform to review & discuss games.
 - *Tech Stack*: React.js, Node.js, MongoDB, Express.js
-- *Live Site*: [Visit Here](https://assignment-10-212c3.web.app/)
+- *Live Site*: [Visit Here] https://assignment-10-212c3.web.app/
 
-### 🚗 [Car Rental Platform](https://github.com/Faysal2123/car-rental)
+### 🚗 [Car Rental Platform] https://github.com/Faysal2123/car-rental
 - *Overview*: A car rental service app.
 - *Tech Stack*: React.js, Firebase, Tailwind CSS
-- *Live Site*: [Visit Here](https://github.com/Faysal2123/Car-Rental-Project)
+- *Live Site*: [Visit Here] https://github.com/Faysal2123/Car-Rental-Project
 
 ### 🎟 [Coupon Collecting Platform](https://github.com/Faysal2123/coupon-collecting)
 - *Overview*: A platform to collect and use discount coupons.
 - *Tech Stack*: MERN Stack, JWT Authentication, Tailwind CSS
-- *Live Site*: [Visit Here](https://assignment-9-fb7fb.web.app/)
+- *Live Site*: [Visit Here] https://assignment-9-fb7fb.web.app/
 
 ---
 
